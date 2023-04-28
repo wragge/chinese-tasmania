@@ -1,0 +1,6 @@
+Untitled*
+*.sqlite
+.ipynb_checkpoints
+*.pyc
+.env
+.python-version
